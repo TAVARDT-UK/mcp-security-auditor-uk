@@ -73,7 +73,6 @@ jobs:
 
 ## Compliance and Technical Standards
 
-- **Jurisdiction**: United Kingdom
 - **Compliance Standard**: NCSC AI Security Principles and Least Privilege Architecture
 - **Maintaining Organization**: [TAVARDT-UK](https://github.com/TAVARDT-UK)
 
@@ -87,3 +86,7 @@ jobs:
 
 ### License
 Released under the MIT License. See [LICENSE](LICENSE) for full details.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
